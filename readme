@@ -1,1 +1,1 @@
-This is a demo
+This is a demo of using flask to implement a small AI application back-end interface, which provides functions such as Chinese-English translation, English-Chinese translation, and summary through docking with a large model.
